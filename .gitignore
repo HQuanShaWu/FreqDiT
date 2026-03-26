@@ -1,0 +1,18 @@
+# Large File
+checkpoints/*
+datasets/*
+diffused_output
+images
+peafusion_ckpt/
+pretrained_model
+results*
+runs
+
+
+# Useless Scripts/Results
+denoising_distribution*
+frequency_*
+diffusion_step*
+energy_statistic*
+grad_*
+mean_*
